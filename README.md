@@ -1,4 +1,4 @@
-Repositório criado para desenvolver um jogo da velha velha virtual usando javascript para possibilitar as interações.
+Repositório criado para desenvolver um jogo da velha virtual usando javascript para possibilitar as interações.
 <br>
 Link de visualização: https://hash-raulrodmo.netlify.app/
 <br>

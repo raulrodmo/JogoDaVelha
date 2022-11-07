@@ -2,8 +2,9 @@ Repositório criado para desenvolver um jogo da velha virtual usando javascript 
 <br>
 Link de visualização: https://hash-raulrodmo.netlify.app/
 <br>
-Abaixo temos uma imagem ilustrativa:
-![image](https://user-images.githubusercontent.com/102265187/192399444-abf0a0a9-974d-43ba-93ff-f7054a1c33c5.png)
+Abaixo temos um vídeo expositivo do resultado:
+
+https://user-images.githubusercontent.com/102265187/200419678-aa773145-e46a-4c01-9b63-031a96f02e54.mp4
 
 #### Programming languages used
 

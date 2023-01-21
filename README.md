@@ -1,15 +1,32 @@
-Repositório criado para desenvolver um jogo da velha virtual usando javascript para possibilitar as interações.
-<br>
-Link de visualização: https://hash-raulrodmo.netlify.app/
-<br>
-Abaixo temos uma imagem ilustrativa:
-![image](https://user-images.githubusercontent.com/102265187/192399444-abf0a0a9-974d-43ba-93ff-f7054a1c33c5.png)
+<h1 align="center"> Jogo da Velha </h1>
 
-#### Programming languages used
+<p align="center">
+Repositório criado para desenvolver um jogo da velha virtual usando javascript para possibilitar as interações.<br/>
+</p>
 
-<div>
-      <a href="https://github.com/raulrodmo">
-            <img id="html" src="https://cdn-icons-png.flaticon.com/512/1051/1051277.png" width="60" height="60"/>
-            <img id="css" src="https://cdn-icons-png.flaticon.com/512/732/732190.png" width="60" height="60"/>
-            <img id="js" src="https://cdn-icons-png.flaticon.com/512/1199/1199124.png" width="60" height="60"/>
-</div>
+<p align="center">
+  <a href="#technologies">Technologies</a>&nbsp;&nbsp;&nbsp;|&nbsp;&nbsp;&nbsp;
+  <a href="#project">Project</a>
+</p>
+
+<br>
+
+<p align="center">
+  <img alt="hash" src=".github/preview.jpg" width="100%">
+</p>
+
+## 🚀 Technologies
+
+Esse projeto foi desenvolvido com as seguintes tecnologias:
+
+- HTML e CSS
+- JavaScript
+- Git e Github
+
+## 💻 Project
+
+- [Visite o projeto online](https://hash-raulrodmo.netlify.app/)
+
+---
+
+<p align="center">Made with 💜 by raulrodmo</p>
